@@ -90,7 +90,7 @@ $ yarn dev
   + 완료 표시 가능
 
 ### ⚙ 내 정보를 간편하게 관리할 수 있어요.
-  <img src="/" height="300">
+  <img src="/" height="300">//깃에 올리고 경로쓰기 
   <img src="/" height="300">
   
 + 마이페이지
