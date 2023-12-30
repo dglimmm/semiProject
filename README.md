@@ -107,7 +107,7 @@ $ yarn dev
 
 ## 팀원 소개
 
-| 이름 | 포지션 | Contact |
+| 이름 | 담당역할 | Contact |
 | --- | --- | --- |
 | 최지원 | AI | a1@gmail.com |
 | 최지투 | BE | a1@gmail.com |
