@@ -37,21 +37,14 @@ $ git clone https://kdt-gitlab.elice.io/ai_track/class05/ai_project/team05/team0
 ```
 
 2. tomcat 서버에 프로젝트를 올립니다.
-```
 
-```
 3. tomcat server를 실행합니다.
-```
 
-```
 
 ## 주요 기능
 
 ### ✏ 사용자간 **중고 거래 게시판**에 글을 올려 서로 거래할 수 있어요.  
-  <img src="" height="300">
-  <img src="" height="300">
-  <img src="" height="300">
-  <img src="" height="300">
+
 
 + 마이페이지
   + 내가 쓴 글 확인가능, 판매내역 보기
