@@ -3,7 +3,7 @@
 
 ## 프로젝트 개요
 
-![로고](./front/public/mainlogo.png)
+![로고](src/main/webapp/resources/images/img/dang.jpg)
 
 - 개발 기간: 2023-10-16 ~ 2023-11-17
 - 개발자 링크: (https://www.notion.so/bc3c7471e459461fbabde1a07a4337b9)
