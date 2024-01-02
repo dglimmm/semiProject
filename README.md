@@ -33,7 +33,7 @@ JAVA : 11 Version
 1. 프로젝트 레포지토리를 클론합니다.
 
 ```sh
-$ git clone [https://github.com/dglimmm/semiProject.git](https://github.com/dglimmm/semiProject.git)
+$ git clone https://github.com/dglimmm/semiProject.git
 ```
 
 2. tomcat 서버에 프로젝트를 올립니다.
